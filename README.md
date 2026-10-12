@@ -8,7 +8,7 @@ I'm currently studying Mobile Application Development, developing my programming
 
 My background in healthcare and support work has taught me the importance of communication, collaboration, and understanding people's needs. Combined with my previous studies in graphic communication, illustration, and web development, this gives me a perspective that connects technology with people and design.
 
-### 🌱 What I'm Learning
+### 🌱 Technologies & Skills
 
 - **Programming:** Java, JavaScript
 - **Web Development:** HTML5, CSS3
